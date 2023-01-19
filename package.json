@@ -1,0 +1,19 @@
+{
+  "name": "bootcamp-rocketseat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soma.js",
+  "scripts": {
+    "dev":"tsx watch src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.11.0",
+    "tsx": "^3.12.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
